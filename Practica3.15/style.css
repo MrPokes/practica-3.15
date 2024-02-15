@@ -1,0 +1,12 @@
+pre{
+    line-height: 1px;
+}
+a{
+    color: black;
+    text-decoration: underline;
+}
+
+h1.s {
+    font-style: inherit;
+
+}
